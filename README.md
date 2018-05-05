@@ -1,6 +1,6 @@
 # Identicon
 
-\*\*This is the identicon project that generates an image from any string input
+This is the identicon project that generates an image from any string input
 
 ## Installation
 
